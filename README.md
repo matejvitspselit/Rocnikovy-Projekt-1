@@ -1,6 +1,6 @@
 # Ročníkový projekt 1
 
-Cílem tohoto projektu bylo prohloubit si znalosti v javascriptovém frameworku **ReactJS** a naučit se nové přístupy při tvorbě webových aplikací. Celý projekt jsem vytvořil inspirován designem webové stránky z videa odkaz na https://www.youtube.com/watch?v=DCTuw2P6DCU. Zatímco původní projekt byl vytvořen v NextJS, já jsem psal veškerý kód sám, pouze na základě designu a funkčnosti zobrazené ve videu.
+Cílem tohoto projektu bylo prohloubit si znalosti v javascriptovém frameworku **ReactJS** a naučit se nové přístupy při tvorbě webových aplikací. Celý projekt jsem vytvořil inspirován designem webové stránky z videa odkaz na https://www.youtube.com/watch?v=DCTuw2P6DCU. Zatímco původní projekt byl vytvořen v NextJS, já jsem psal veškerý kód sám, pouze na základě designu a funkčnosti zobrazené ve videu (Samozřejmě mi semtam pomohl i ChatGPT ale to k tomu patří).
 
 ## Webová stránka obsahuje:
 
