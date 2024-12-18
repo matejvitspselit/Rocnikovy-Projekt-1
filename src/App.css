@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Archivo+Black&family=Barlow+Condensed&family=Pixelify+Sans&family=Poppins:wght@300&family=Questrial&family=REM:wght@300;400&family=Roboto:wght@500&family=Space+Grotesk&display=swap');
+
+*{
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+body{
+    min-height: 202.5vh;
+    background-color: #E7ECEE;
+}
+#root{
+   height: 200vh;
+}
