@@ -13,6 +13,22 @@ Cílem tohoto projektu bylo prohloubit si znalosti v javascriptovém frameworku 
 
 ## Vysvětlení
 
-Jelikož je kód opravdu velký, vysvětlím zde pouze klíčové části webu:
+*Jelikož je kód opravdu velký, vysvětlím zde pouze klíčové části webu:*
+
+Jednou z důležitých funkcionalit webu je navigace mezi jednotlivými stránkami, kterou zajišťuje knihovna React Router DOM.
+
+<BrowserRouter>
+  <Routes>
+    <Route path="/" element={<Home />}></Route>
+    <Route path="/cart" element={<Cart />}></Route>
+    <Route path='/sign-in' element={<SignIn />}></Route>
+  </Routes>
+</BrowserRouter>
+
+Každá cesta (path) určuje URL, při jejímž zadání se zobrazí odpovídající komponenta (element).
+
+- / – Zobrazí hlavní stránku aplikace pomocí komponenty <Home />.
+- /cart – Zobrazí stránku košíku s komponentou <Cart />.
+- /sign-in – Umožní přístup na přihlašovací stránku s komponentou <SignIn />.
 
 
