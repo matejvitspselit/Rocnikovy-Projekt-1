@@ -158,3 +158,7 @@ const Promo = () => {
 - **Notifikace**: Po přidání do košíku se zobrazí dočasná notifikace s názvem přidaného produktu.
 
 
+# Závěr
+Protože je kód opravdu rozsáhlý, popsal jsem zde jen klíčové části, které jsou pro aplikaci nejdůležitější. Tento projekt mi pomohl lépe pochopit React a jak spravovat stav aplikace efektivně. Ačkoliv jsem se několikrát zasekl, vždycky to šlo vyřešit – stačilo se na to podívat z jiného úhlu nebo si dát pauzu.
+
+
