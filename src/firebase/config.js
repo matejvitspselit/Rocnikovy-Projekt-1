@@ -2,7 +2,7 @@ import { initializeApp } from "firebase/app";
 import { getAuth, GoogleAuthProvider} from "firebase/auth"
 
 const firebaseConfig = {
-  apiKey: "AIzaSyDlgimf4XDf7tgKpVmyS-gVoSKsVxH5pC0",
+  apiKey: "***************************",
   authDomain: "apple-redesign-a8dbb.firebaseapp.com",
   projectId: "apple-redesign-a8dbb",
   storageBucket: "apple-redesign-a8dbb.appspot.com",
