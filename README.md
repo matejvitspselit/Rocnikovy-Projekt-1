@@ -17,6 +17,7 @@ Cílem tohoto projektu bylo prohloubit si znalosti v javascriptovém frameworku 
 
 Jednou z důležitých funkcionalit webu je navigace mezi jednotlivými stránkami, kterou zajišťuje knihovna React Router DOM.
 
+```jsx
 <BrowserRouter>
   <Routes>
     <Route path="/" element={<Home />} />
@@ -24,7 +25,7 @@ Jednou z důležitých funkcionalit webu je navigace mezi jednotlivými stránka
     <Route path="/sign-in" element={<SignIn />} />
   </Routes>
 </BrowserRouter>
-
+```
 Každá cesta (path) určuje URL, při jejímž zadání se zobrazí odpovídající komponenta (element).
 
 - / – Zobrazí hlavní stránku aplikace pomocí komponenty <Home />.
