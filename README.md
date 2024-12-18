@@ -19,9 +19,9 @@ Jednou z důležitých funkcionalit webu je navigace mezi jednotlivými stránka
 
 <BrowserRouter>
   <Routes>
-    <Route path="/" element={<Home />}></Route>
-    <Route path="/cart" element={<Cart />}></Route>
-    <Route path='/sign-in' element={<SignIn />}></Route>
+    <Route path="/" element={<Home />} />
+    <Route path="/cart" element={<Cart />} />
+    <Route path="/sign-in" element={<SignIn />} />
   </Routes>
 </BrowserRouter>
 
