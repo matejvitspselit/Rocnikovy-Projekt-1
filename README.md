@@ -34,6 +34,8 @@ Každá cesta (path) určuje URL, při jejímž zadání se zobrazí odpovídaj�
 - /sign-in – Umožní přístup na přihlašovací stránku s komponentou <SignIn />.
 
 
+
+
 ## Správa stavu košíku pomocí Context API
 
 Pro správu stavu košíku jsem implementoval **Context API**, což umožňuje sdílet data o produktech napříč aplikací, aniž by bylo nutné předávat je skrze jednotlivé komponenty.
@@ -77,6 +79,8 @@ export const CartProvider = ({ children }) => {
 
 ---
 
+
+
 ## Struktura produktů
 
 Data o produktech (např. Mac, iPhone, iPad, Watch) jsou strukturovaná v samostatném souboru jako pole objektů, což umožňuje jednoduché filtrování a renderování.
@@ -107,6 +111,8 @@ const products = [
 - **Data**: Každý produkt obsahuje atributy jako `id`, `image`, `name`, a `price`.
 
 ---
+
+
 
 ## Komponenta `Promo`
 
