@@ -4,8 +4,15 @@ Cílem tohoto projektu bylo prohloubit si znalosti v javascriptovém frameworku 
 
 ## Webová stránka obsahuje:
 
-**Funkční košík**: plně implementovaný pro přidávání a správu produktů.
+- **Funkční košík**: plně implementovaný pro přidávání a správu produktů.
 
-**Zobrazení produktů pomocí OOP**: pro strukturovanější práci s daty.
+- **Zobrazení produktů pomocí OOP**: pro strukturovanější práci s daty.
 
-**Funkční přihlašování uživatele**: s ověřením přístupových údajů.
+- **Funkční přihlašování uživatele**: s ověřením přístupových údajů.
+
+
+## Vysvětlení
+
+Jelikož je kód opravdu velký, vysvětlím zde pouze klíčové části webu:
+
+
